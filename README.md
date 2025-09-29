@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Luis María Chaves López</h1>
-- 📫 How to reach me **lmchaveslop@gmail.com**
+- 📫 Como contactar conmigo: **lmchaveslop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
